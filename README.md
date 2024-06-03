@@ -41,3 +41,10 @@ This Streamlit app provides a user interface to explore and evaluate AI model pr
 - These prompts are used for fine-tuning the model.
 - The fine-tuned model is then used to generate responses based on user prompts entered via the Streamlit app.
 - Users can evaluate the quality of the generated prompts and provide feedback.
+
+
+
+
+![Screenshot 2024-06-03 153140](https://github.com/imgowthamg/AI-Model-Prompt-Engineering-and-Evaluation/assets/119653141/f88282b6-01c5-4ab3-ad85-fe89cdb30768)
+![Screenshot 2024-06-03 153327](https://github.com/imgowthamg/AI-Model-Prompt-Engineering-and-Evaluation/assets/119653141/be6c7635-846f-450f-91a0-7ca6dc82da38)
+![Screenshot 2024-06-03 153353](https://github.com/imgowthamg/AI-Model-Prompt-Engineering-and-Evaluation/assets/119653141/20048fd7-a4e4-41ae-af0a-550ccbf8248a)
